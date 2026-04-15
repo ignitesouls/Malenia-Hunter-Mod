@@ -1,6 +1,6 @@
 # Malenia-Hunter-Mod
 
-**Created by Ignite, Shura, and Psiphicode**
+**Created by Shura & Psiphicode from Ignite**
 
 Malenia is designed to hunt the player down and relentlessly pursue them across the Lands Between.
 
