@@ -14,8 +14,8 @@ Malenia is designed to hunt the player down and relentlessly pursue them across 
 - Currently, only Phase 1 Malenia is used for the chase
 
 **Install & Play**
-Download and Unzip `Malenia.Hunter.Full.Mod.zip`
-Open `launchmod_eldenring.bat`
+- Download and Unzip `Malenia.Hunter.Full.Mod.zip`
+- Open `launchmod_eldenring.bat`
 
 **Modding Details**
 The DLL handles spawning Malenia, managing the cooldown, and warping her to the player’s position.
